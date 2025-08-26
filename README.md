@@ -32,9 +32,3 @@ O envio dos dados de temperatura é feito em 5 etapas:
 ![Diagrama de Componentes](Diagrama_Componentes.png)
 
 ---
-
-## Tecnologias Utilizadas
-- **NodeMCU ESP32**  
-- **Sensor de Temperatura**  
-- **Shiftr.io (MQTT/HTTP)**  
-- **UML (Modelio)**  
