@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UML_CloudWatch" version="4">
+  <OBJECT>
+    <ID name="UML_CloudWatch" mc="Infrastructure.DiagramSet" uid="382e9f1a-c042-4f30-9d82-23ca9a98de26"/>
+    <PID name="UML_CloudWatch" mc="Standard.Project" uid="0f96f4e9-5867-4216-b4dd-b01b9e36b690"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[UML_CloudWatch]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

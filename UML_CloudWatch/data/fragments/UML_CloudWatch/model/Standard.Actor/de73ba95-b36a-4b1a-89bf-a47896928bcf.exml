@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Usuário" version="4">
+  <OBJECT>
+    <ID name="Usuário" mc="Standard.Actor" uid="de73ba95-b36a-4b1a-89bf-a47896928bcf"/>
+    <PID name="UML_Casos_de_Uso" mc="Standard.Package" uid="4d07da8d-382d-4f61-a3f8-0f3573f2f52f"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Usuário]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
