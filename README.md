@@ -26,9 +26,9 @@ O envio dos dados de temperatura é feito em 5 etapas:
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](Diagrama_Casos_de_Uso.png)
+![Diagrama de Casos de Uso](images/Diagrama_Casos_de_Uso.png)
 
 ### Diagrama de Componentes
-![Diagrama de Componentes](Diagrama_Componentes.png)
+![Diagrama de Componentes](images/Diagrama_Componentes.png)
 
 ---
