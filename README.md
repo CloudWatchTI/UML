@@ -37,21 +37,21 @@ O envio dos dados de temperatura é feito em 5 etapas:
 
 Seguindo estas instruções, será possível abrir, editar e exportar os diagramas UML localmente utilizando o **Modelio**.
 
-🔧 Passo 1: Instalar o Modelio  
+Passo 1: Instalar o Modelio  
 Baixe e instale o **Modelio** a partir do site oficial:  
 https://www.modelio.org/download/
 
-📂 Passo 2: Abrir o Projeto  
+Passo 2: Abrir o Projeto  
 No Modelio, vá em **File > Open Project** e selecione a pasta `diagrams/` deste repositório, onde estão armazenados os arquivos do projeto UML.
 
-🖼️ Passo 3: Visualizar os Diagramas  
+Passo 3: Visualizar os Diagramas  
 No painel do Modelio, navegue até os diagramas disponíveis (Casos de Uso, Componentes, etc.) e abra clicando duas vezes.
 
-✏️ Passo 4: Editar os Diagramas  
+Passo 4: Editar os Diagramas  
 Realize as alterações necessárias diretamente no Modelio.  
 É possível adicionar, remover ou modificar elementos UML de acordo com a evolução do projeto.
 
-💾 Passo 5: Exportar para Imagem  
+Passo 5: Exportar para Imagem  
 Após editar, exporte novamente os diagramas em formato `.png`:  
 - Clique com o botão direito no diagrama  
 - Selecione **Export Diagram As Image**  
