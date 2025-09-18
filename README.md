@@ -57,6 +57,3 @@ Após editar, exporte novamente os diagramas em formato `.png`:
 - Selecione **Export Diagram As Image**  
 - Salve o arquivo dentro da pasta `images/` para manter o repositório atualizado.  
 
-✅ Pronto!  
-Agora você consegue visualizar e editar os diagramas UML no **Modelio**, garantindo que a documentação esteja sempre atualizada.
-
